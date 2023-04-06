@@ -5,7 +5,7 @@
 
 
 
-Skills: NodeJs / React / PHP / Js / HTML / CSS
+Skills: NodeJs / React / PHP / Js / HTML / CSS / TypeScript / Angular / Python
 
 - 💬 Ask me about web & mobile. 
 - 📫 How to reach me: hello@appycodes.com 
