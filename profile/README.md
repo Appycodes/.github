@@ -1,11 +1,8 @@
-### Hi there 👋, We are appycodes
+### Hi there 👋, we are appycodes
 #### We're an award winning tech company & we build top-notch solutions for web & mobile.
 
 
-
-
-
-Skills: NodeJs / React / PHP / Js / HTML / CSS / TypeScript / Angular / Python
+Work we do: NodeJs / React / React Native / PHP / Js / HTML / CSS / TypeScript / Angular / Python / Devops / Wordpress / Shopify / Laravel / Unity / SEO
 
 - 💬 Ask me about web & mobile. 
 - 📫 How to reach me: hello@appycodes.com 
